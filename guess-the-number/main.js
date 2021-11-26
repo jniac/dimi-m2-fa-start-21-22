@@ -14,15 +14,16 @@ input.onchange = () => {
   }
 
   if (value < mysteryNumber) {
-    document.body.style.backgroundColor = 'red'
-    response.innerHTML = 'Trop petit !'
+    document.body.style.color = 'red'
+    response.innerHTML = `Trop petit ! (${value})`
   }
   if (value > mysteryNumber) {
-    document.body.style.backgroundColor = 'blue'
-    response.innerHTML = 'Trop grand !'
+    document.body.style.color = 'blue'
+    response.innerHTML = `Trop grand ! (${value})`
   }
   if (value === mysteryNumber) {
-    document.body.style.backgroundColor = 'white'
+    document.body.style.color = 'white'
+    document.body.style.backgroundColor = '#e8a81b'
     response.innerHTML = 'Bravo !!!'
   }
 }
