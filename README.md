@@ -1,4 +1,5 @@
-# Start (web, html, css, js, git, github, markdown, vscode...)
+# DIMI M2 — Start
+web, html, css, js, git, github, markdown, vscode...
 
 ## Projet référent
 [jniac/dimi-m2-fa-start-21-22](https://github.com/jniac/dimi-m2-fa-start-21-22)
