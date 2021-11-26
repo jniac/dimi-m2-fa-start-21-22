@@ -25,4 +25,12 @@ h1 {
 
 input {
   text-align: center;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  font-size: 120px;
+}
+
+#response {
+  font-size: 60px;
 }
