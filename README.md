@@ -1,4 +1,5 @@
-# Start (web, html, css, js, git, github, markdown, vscode...)
+# DIMI M2 — Start
+web, html, css, js, git, github, markdown, vscode...
 
 ## Initialiser GIT (pour pouvoir faire des "commits")
 
